@@ -1,0 +1,1 @@
+public class EventoFinanceiro extends Evento{}
